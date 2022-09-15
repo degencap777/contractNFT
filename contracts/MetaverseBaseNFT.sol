@@ -529,6 +529,7 @@ contract MetaverseBaseNFT is
         // Get a reference to OpenSea's proxy registry contract by instantiating
         // the contract using the already existing address.
         ProxyRegistry proxyRegistry = ProxyRegistry(
+        
             0xa5409ec958C83C3f309868babACA7c86DCB077c1
         );
 
