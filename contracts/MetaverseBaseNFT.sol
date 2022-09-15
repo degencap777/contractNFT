@@ -105,7 +105,9 @@ contract MetaverseBaseNFT is
         uint256 _price,
         uint256 _maxSupply,
         uint256 _nReserved,
+        
         uint256 _maxPerMint,
+        
         uint256 _royaltyFee,
         string memory _uri,
         string memory _name,
